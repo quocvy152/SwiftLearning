@@ -7,5 +7,8 @@
         <page name='Optionals'/>
         <page name='Functions'/>
         <page name='Tuples'/>
+        <page name='ObjectOrientedProgramming'/>
+        <page name='Structs'/>
+        <page name='Enums'/>
     </pages>
 </playground>
